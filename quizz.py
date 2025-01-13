@@ -51,7 +51,7 @@ def main():
         ("Who developed the theory of relativity?", ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Niels Bohr"], 2),
         ("What is the longest river in the world?", ["Nile", "Amazon", "Yangtze", "Mississippi"], 2),
         ("What is the chemical symbol for gold?", ["Au", "Ag", "Fe", "Pb"], 1),
-        ("Who wrote 'Pride and Prejudice'?", ["Charlotte Bronte", "Jane Austen", "Emily Bronte", "Mary Shelley"], 2),
+        ("Who wrote 'Pride and Prejudice'?", ["Jane Austen","Charlotte Bronte", "Emily Bronte", "Mary Shelley"], 1),
         ("What is the freezing point of water in Celsius?", ["0", "32", "100", "-10"], 1),
         ("Who is known as the father of computers?", ["Alan Turing", "Charles Babbage", "John von Neumann", "Bill Gates"], 2),
         ("What is the smallest country in the world?", ["Monaco", "Vatican City", "San Marino", "Liechtenstein"], 2),
