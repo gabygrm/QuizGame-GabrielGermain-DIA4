@@ -15,13 +15,10 @@ Welcome to the **General Culture Quiz Game**! This is a Python-based console app
 
 ## How to Run
 1. Ensure you have Python installed on your system (version 3.6 or higher).
-2. Copy the `quiz_game.py` script into your working directory.
-3. Open a terminal or command prompt.
-4. Run the script using the command:
-   ```bash
-   python quiz_game.py
-   ```
-5. Follow the on-screen instructions to play the quiz.
+2. Open your terminal
+3. Type  ' git clone https://github.com/gabygrm/QuizGame-GabrielGermain-DIA4.git '
+4. Type ' cd QuizGame-GabrielGermain-DIA4 '
+5. And Type 'python quizz.py ' to play 
 
 ## Example Gameplay
 ```
