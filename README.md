@@ -1,7 +1,7 @@
 # QuizGame-GabrielGermain-DIA4
 
 Name : Gabriel Germain
-Date : 13/01
+Date : 13/01/2025
 TD : DIA 4
 
 Welcome to the **General Culture Quiz Game**! This is a Python-based console application where players answer 10 multiple-choice questions to test their general knowledge.
