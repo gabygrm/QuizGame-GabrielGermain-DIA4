@@ -38,6 +38,14 @@ def main():
     questions = [
         ("What is the capital of France?", ["Berlin", "Madrid", "Paris", "Rome"], 3),
         ("Who wrote 'To Kill a Mockingbird'?", ["Harper Lee", "J.K. Rowling", "Mark Twain", "Jane Austen"], 1),
+        ("What is the largest planet in our solar system?", ["Earth", "Jupiter", "Mars", "Saturn"], 2),
+        ("Which element has the chemical symbol 'O'?", ["Oxygen", "Gold", "Osmium", "Silver"], 1),
+        ("Who painted the Mona Lisa?", ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"], 3),
+        ("What is the smallest prime number?", ["1", "2", "3", "5"], 2),
+        ("Which ocean is the largest?", ["Atlantic", "Indian", "Arctic", "Pacific"], 4),
+        ("What year did the Titanic sink?", ["1912", "1905", "1920", "1898"], 1),
+        ("Who discovered penicillin?", ["Alexander Fleming", "Marie Curie", "Isaac Newton", "Louis Pasteur"], 1),
+        ("What is the square root of 64?", ["6", "7", "8", "9"], 3)
     ]
 
     score = 0
